@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7247DA65C31BB32BB0AC4E6BB48AEDF0D9247392",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7247DA65C31BB32BB0AC4E6BB48AEDF0D9247392" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD7F386C-FE87-4D1D-9B60-F137D30BE514",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7247DA65C31BB32BB0AC4E6BB48AEDF0D9247392" : "Tipsy-iOS13\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tipsy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tipsy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appbrewery\/Tipsy-iOS13.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7247DA65C31BB32BB0AC4E6BB48AEDF0D9247392"
+    }
+  ]
+}
